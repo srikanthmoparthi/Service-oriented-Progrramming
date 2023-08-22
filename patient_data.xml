@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlstylesheet.xsl"?>
+<patients>
+        
+<patient>
+                        <patient>
+                        <name>tejasree</name>
+                        <age>42</age>
+                        <gender>male</gender>
+                    </patient><patient>
+                        <name>me</name>
+                        <age>12</age>
+                        <gender>female</gender>
+                    </patient><patient>
+                        <name>teju</name>
+                        <age>21</age>
+                        <gender>female</gender>
+                    </patient></patients>
